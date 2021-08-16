@@ -1,0 +1,23 @@
+{
+  "name": "55-nodejs",
+  "version": "1.0.0",
+  "description": "learning nodejs-express-sequelize",
+  "main": "./server/index.js",
+  "scripts": {
+    "dev": "nodemon server",
+    "start": "node server"
+  },
+  "type": "module",
+  "author": "Vicente Barría",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0",
+    "pug": "^3.0.2",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.12"
+  }
+}
