@@ -4,7 +4,7 @@ Deployment of a travel agency website I made while learning NodeJS/Express and f
 **Note that any GUI element present in this work was not made by me, but was obtained from the material the teacher provided**.
 
 Technologies used:
-- HTML/CSS
+- Pug/CSS
 - JavaScript
 - NodeJS/Express
 - Bootstrap
